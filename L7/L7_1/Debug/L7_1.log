@@ -1,0 +1,18 @@
+﻿  main.c
+c:\git\syspr\l7\l7_1\main.c(21): warning C4013: "isPrime" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\git\syspr\l7\l7_1\main.c(27): warning C4013: "strlen" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\git\syspr\l7\l7_1\main.c(31): warning C4013: "copyStr" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\git\syspr\l7\l7_1\main.c(35): warning C4013: "compareStr" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\git\syspr\l7\l7_1\main.c(43): warning C4013: "easy" undefiniert; Annahme: extern mit Rückgabetyp int
+  U3.c
+c:\git\syspr\l7\l7_1\u3.c(6): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "int *" und "int **" unterschiedlich
+c:\git\syspr\l7\l7_1\u3.c(14): warning C4013: "printf" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\git\syspr\l7\l7_1\u3.c(23): warning C4047: "=": Anzahl der Dereferenzierungen bei "int *" und "int (*)[3]" unterschiedlich
+c:\git\syspr\l7\l7_1\u3.c(43): warning C4047: "=": Anzahl der Dereferenzierungen bei "int *" und "int (*)[100]" unterschiedlich
+  U2.c
+c:\git\syspr\l7\l7_1\u2.c(1): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+c:\git\syspr\l7\l7_1\u2.c(10): warning C4013: "printf" undefiniert; Annahme: extern mit Rückgabetyp int
+  Code wird generiert...
+c:\git\syspr\l7\l7_1\u3.c(9): warning C4716: "sumOfArray": Muss einen Wert zurückgeben
+  L7_1.vcxproj -> C:\git\syspr\L7\Debug\L7_1.exe
+  L7_1.vcxproj -> C:\git\syspr\L7\Debug\L7_1.pdb (Full PDB)
